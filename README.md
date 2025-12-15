@@ -1,3 +1,4 @@
+### [PROGETTO SCOLASTICO] 
 # Una semplice implementazione Java di JCSP.
 Questo progetto è una semplice chat CLI scritta in Java 11 (Maven) che utilizza il protocollo JCSP
 per le comunicazioni client-server.
