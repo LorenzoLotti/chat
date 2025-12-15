@@ -7,7 +7,7 @@ per le comunicazioni client-server.
 
 - [Documentazione del protocollo JCSP](./jcsp.pdf)
 
-- [Documentazione Javadoc della chat](https://lotti-meucci.github.io/chat/)
+- [Documentazione Javadoc della chat](https://lorenzolotti.github.io/chat/)
 
 ---
 
